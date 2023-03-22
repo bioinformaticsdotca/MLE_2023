@@ -1,11 +1,11 @@
 ---
 layout: tutorial_page
-permalink: /MLE_2021_schedule
+permalink: /MLE_2023_schedule
 title: MLE
 header1: Workshop Pages for Students
-header2: Machine Learning 2021 Schedule
+header2: Machine Learning 2023 Schedule
 image: /site_images/CBW_bigdata_icon.jpg
-home: https://bioinformaticsdotca.github.io/MLE_2021
+home: https://bioinformaticsdotca.github.io/MLE_2023
 ---
 
 | | **Day 1** | | **Day 2** |  
