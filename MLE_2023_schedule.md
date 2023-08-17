@@ -4,7 +4,7 @@ permalink: /MLE_2023_schedule
 title: MLE
 header1: Workshop Pages for Students
 header2: Machine Learning 2023 Schedule
-image: /site_images/CBW_bigdata_icon.jpg
+image: /site_images/CBW_MLE_icon.png
 home: https://bioinformaticsdotca.github.io/MLE_2023
 ---
 
