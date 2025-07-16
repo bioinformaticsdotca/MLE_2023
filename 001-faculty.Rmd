@@ -1,0 +1,108 @@
+# Meet Your Faculty
+
+#### David Wishart
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of David Wishart">
+
+>Distinguished University of Biological Sciences and Computing Science <br>
+University of Alberta <br>
+Edmonton, AB, CA
+>
+> --- dwishart@ualberta.ca <br>
+[www.wishartlab.com](www.wishartlab.com)
+
+David was one of the co-founders of the CBW in 1998. He has active
+research interests in the application of machine learning to a wide range of computational
+biology problems, from genomics to proteomics to metabolomics. In addition to running a large
+computational biology lab, David also operates a large wet lab (analytical chemistry, molecular
+biology, nanotechnology, cell biology, structural biology) supported by its own fabrication shop
+and electrical engineering group.
+
+#### Vasu Gautam
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Vasu Gautam">
+
+>Senior Scientist <br>
+Wishart Lab, University of Alberta <br>
+Edmonton, AB, CA
+>
+> --- vasuk@ualberta.ca
+
+Dr. Vasu Gautam is the senior scientist and Bioinformatics Manager at Wishart Node, University
+of Alberta. Vasu is intrigued by the diverse world of “omics” and their combined role in biological
+research, be it proteomics, genomics, or metabolomics. Vasu has worked in both academia and
+industry in the field of multi-omics. His interest has been to explore the different aspects of these
+“omics” groups and then combine this knowledge pool to address some of the most difficult
+questions in the field. Bioinformatics/computational biology has been a great tool in enhancing
+this capability and continuing his research. His current focus is the study of machine learning
+algorithms and their applications in different areas of metabolomics.
+
+#### Mark Berjanskii
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Mark Berjanskii">
+
+>Research Associate <br>
+Department of the Biological Sciences <br>
+University of Alberta <br>
+Edmonton, AB, CA
+>
+> --- mb1@ualberta.ca
+
+Mark obtained a Ph.D. in Biochemistry at University of Missouri-Columbia, USA. Mark's
+research interests include NMR metabolomics, bioinformatics, protein NMR structure
+determination, interactions, misfolding, and dynamics. Between 1996 and 2004, he worked as a
+member of several research teams that studied the Hsp70-Hsp40 chaperone system. Mark
+joined Dr. Wishart's group at University of Alberta in 2004. Between 2005 and 2013, Mark
+studied prion proteins that, when misfolded, cause Mad Cow Disease in cattle and similar
+Creutzfeldt-Jakob Disease in humans. Since 2004, he has been involved in developing several
+programs for analysis of protein structure and dynamics, such as Random Coil Index, Preditor,
+GeNMR, CS23D, PROSESS, Resolution-by-proxy, and Gamdy, as well as bioinformatic
+analysis and NMR metabolomics.
+
+#### Sagan Girod
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+
+>Junior Data Scientist <br>
+Wishart Lab, University of Alberta <br>
+Edmonton, AB, CA
+>
+> --- lgirod@ualberta.ca
+
+Sagan is a data scientist at the Wishart Node, University of Alberta. His
+research is based around machine learning and multi-omics with a focus on data curation and
+database design.
+
+#### Michelle Brazas
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Michelle Braza">
+
+>Acting Scientific Director <br>
+Canadian Bioinformatics Workshops (CBW) <br>
+Toronto, ON, CA
+>
+> --- support@bioinformatics.ca
+
+Dr. Michelle Brazas is the Associate Director for Adaptive Oncology at the Ontario
+Institute for Cancer Research (OICR), and acting Scientific Director at Bioinformatics.ca.
+Previously, Dr. Brazas was the Program Manager for Bioinformatics.ca and a faculty member in
+Biotechnology at BCIT. Michelle co-founded and runs the Toronto Bioinformatics User Group
+(TorBUG) now in its 11th season, and plays an active role in the International Society of
+Computational Biology where she sits on the Board of Directors and Executive Board.
+
+#### Nia Hughes
+
+<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of Nia Hughes">
+
+>Program Manager, Bioinformatics.ca <br>
+Ontario Institute for Cancer Research <br>
+Toronto, ON, Canada
+>
+> --- nia.hughes@oicr.on.ca
+
+Nia is the Program Manager for Bioinformatics.ca, where she coordinates
+the Canadian Bioinformatics Workshop Series. Prior to starting at OICR, she completed her
+M.Sc. in Bioinformatics from the University of Guelph in 2020 before working there as a
+bioinformatician studying epigenetic and transcriptomic patterns across maize varieties.
+
+

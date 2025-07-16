@@ -1,0 +1,12 @@
+# (PART) Modules {-}
+
+# Module 1: Introduction to Machine Learning
+
+## Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3yZjkOCis9Y?si=Ypx6iaekPXpyw42K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1wHJ9nxyyBNs9nHbzmHMFaYqVc4wKN1Aj/preview" width="640" height="480" allow="autoplay"></iframe>
+

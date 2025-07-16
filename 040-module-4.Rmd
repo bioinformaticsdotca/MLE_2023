@@ -1,0 +1,9 @@
+# Module 4: Neural Networks for Secondary Structure
+
+## Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Xush61POE9s?si=5DNvueDe_q4q50Yc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/15quvdaTxUXO3BvMdScVfpvoXDblFWfXE/preview" width="640" height="480" allow="autoplay"></iframe>

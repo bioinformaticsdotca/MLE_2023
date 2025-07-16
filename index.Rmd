@@ -1,0 +1,44 @@
+--- 
+title: "Machine Learning 2023"
+author: "Faculty: David Wishart, Vasu Gautam, Mark Berjanskii, Sagan Girod, Michelle Brazas, Nia Hughes"
+date: "August 16, 2023 - August 17, 2023"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+url: https://github.com/chttps://github.com/bioinformaticsdotca/MLE_2023 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+cover-image: img/bioinformatics_logo.png
+description: |
+  Workshop website for the 2023 Machine Learning Canadian Bioinformatics Workshop
+link-citations: yes
+github-repo: bioinformaticsdotca/MLE_2023 # CHANGE THIS TO YOUR OWN REPO
+favicon: img/favicon.ico
+---
+
+# (PART) Introduction {-}
+
+# Workshop Info
+
+Welcome to the 2023 Machine Learning Canadian Bioinformatics Workshop webpage!  
+
+## Class Photo
+
+<iframe src="https://drive.google.com/file/d/1C6E7PpaUOMR0Ac6F-V3vD7HX3CTEN4u5/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Schedule
+
+| **Time (Eastern)** |                         **Wednesday, August 16**                         | **Time (Eastern)** |                          **Thursday, August 17**                         |
+|:------------------:|:------------------------------------------------------------------------:|:------------------:|:------------------------------------------------------------------------:|
+|        9:45        |                             Virtual Arrivals                             |        9:45        |                             Virtual Arrivals                             |
+|        10:00       |                 Welcome and Technology Check (Nia Hughes)                |        10:00       |           Module 5: Gene Prediction with NNs (Lecture and Lab)           |
+|        10:45       |           Module 1: Introduction to Machine Learning (Lecture)           |        12:00       |                               Break (30min)                              |
+|        12:15       |                               Break (30min)                              |        12:30       | Module 6: Machine Learning with Keras and Scikit-learn (Lecture and Lab) |
+|        12:45       |                Module 2: Decision Trees (Lecture and Lab)                |        14:00       |                                Break (1hr)                               |
+|        14:15       |                               Break (45min)                              |        15:00       |    Module 7 (Continued): Machine Learning with Keras and Scikit-Learn    |
+|        15:00       |                Module 3: Neural Networks (Lecture and Lab)               |        16:00       |                               Break (30min)                              |
+|        16:30       |                               Break (30min)                              |        16:30       |      Module 8: Information Extraction with ChatGPT (Lecture and Lab)     |
+|        17:00       | Module 4: Neural Networks for Secondary Structure (Lecture and Homework) |        17:45       |                        Survey and Closing Remarks                        |
+|        18:00       |                               End of Day 1                               |        18:00       |                               End of Day 2                               |
+
+## Pre-work
+
+[You can find your pre-work here.](https://docs.google.com/forms/d/e/1FAIpQLSckky4be53s62TkKLVMiTeOr3Rw0lwA5xN1rBkyExM3qEZIVA/viewform)

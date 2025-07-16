@@ -1,0 +1,9 @@
+# Module 8: Information Extraction with ChatGPT
+
+## Lecture
+
+<iframe width="640" height="315" src="https://www.youtube.com/embed/ABv8fDZO7ic?si=5ZTEGNwqNE790ErO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1TZd6vpqvCYz0K2uJKBOjX0Q5oaPtIwmV/preview" width="640" height="480" allow="autoplay"></iframe>

@@ -1,0 +1,9 @@
+# Module 6: Machine Learning with Keras and Scikit-Learn
+
+## Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lXw6G7o44hU?si=Qw9D6sAFzUNC9bUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1p2QHlx5Yq6klQMnAxC_G0CDLubCaiBUc/preview" width="640" height="480" allow="autoplay"></iframe>
